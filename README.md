@@ -13,3 +13,15 @@ Packages Used ->
 8] Mongoose
 9] Concurrency
 10] Mongoose
+
+
+It Contains Service
+
+1] To Add User Information
+
+2] To Show All the user details
+
+3] To Add Post / Comment on Post which is visible to all user
+
+4] To Add the education and experience of User 
+
